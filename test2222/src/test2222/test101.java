@@ -6,7 +6,8 @@ public class test101 {
 		System.out.println("AAA33dd");
 		System.out.println("�젣��濡쒗븯�옄");
 		System.out.println("hey gay");
-	
+		System.out.println("Gaybar");
+			
 	}
 
 }
